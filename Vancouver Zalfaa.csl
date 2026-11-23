@@ -449,7 +449,7 @@
             </group>
           </else>
         </choose>
-        <text prefix="doi:" variable="DOI"/>
+        <text variable="DOI" prefix="https://doi.org/"/>
       </group>
     </group>
   </macro>
